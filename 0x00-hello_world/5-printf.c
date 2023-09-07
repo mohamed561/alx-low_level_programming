@@ -3,7 +3,7 @@
 /**
  * main - Taskfive (Hello, printf)
  *
- * Description: This function prints whats inside printf ()
+ * Description: This function prints whats inside printf (.)
  *
  * Return: Alawys 0
  */
