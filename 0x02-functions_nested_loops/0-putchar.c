@@ -1,15 +1,25 @@
 #include <stdio.h>
 
 /**
- * main - main function
+ * main - Entry point
  *
- * Description - This program prints "_putchar" followed by a new line.
+ * Description: This program prints "_putchar" followed by a new line.
  *
- * Return : 0 (Always)
+ *
+ * Return: 0 (Always)
  */
 
 int main(void)
 {
-	printf("_Putchar\n");
-	return(0);
+	putchar('_');
+	putchar('p');
+	putchar('u');
+	putchar('t');
+	putchar('c');
+	putchar('h');
+	putchar('a');
+	putchar('r');
+	putchar('\n');
+
+	return (0);
 }
